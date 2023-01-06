@@ -21,6 +21,7 @@ https://gist.github.com/roelds
     },
     "editor.fontFamily": "'Source Code Pro', 'Courier New', monospace",
     "workbench.colorTheme": "One Dark Pro Darker"
+    "powershell.powerShellDefaultVersion": "Windows PowerShell (x64)"
 }
 ```
 
