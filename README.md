@@ -19,9 +19,6 @@ https://gist.github.com/roelds
     "files.associations": {
         "*.sh": "fish"
     },
-    "files.exclude": {
-        "**/.exe": true
-    },
     "editor.fontFamily": "'Source Code Pro', 'Courier New', monospace",
     "workbench.colorTheme": "One Dark Pro Darker"
     "powershell.cwd": "D:\\",
