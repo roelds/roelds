@@ -23,6 +23,14 @@ https://gist.github.com/roelds
     "workbench.colorTheme": "One Dark Pro Darker"
     "powershell.cwd": "D:\\",
     "powershell.powerShellDefaultVersion": "Windows PowerShell (x64)"
+    "terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.profiles.windows": {
+        "Windows PowerShell": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell"
+
 }
 ```
 
