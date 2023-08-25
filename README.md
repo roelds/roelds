@@ -6,9 +6,12 @@
 - 💬 Find me elsewhere, supposedly with some answers : 
 https://stackoverflow.com/users/3613951/roelds
 - 💞️ I’m looking to collaborate on FOSS : 
+
 ```See my Gists for various code snippets & shell scripts (mostly Go & Fish & PowerShell)```
+
 https://gist.github.com/roelds
-- 📫 How to reach me via DM : https://keybase.io/roelds
+
+- 📫 Reach me via DM on KB : https://keybase.io/roelds
 - 🔭 My fav nerd font : https://www.programmingfonts.org/#source-code-pro
 - 🎨 My https://code.visualstudio.com Editor Settings : 
 ```%appdata%\code\user\settings.json```
