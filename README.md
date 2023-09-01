@@ -11,7 +11,7 @@ https://stackoverflow.com/users/3613951/roelds
 
 https://gist.github.com/roelds
 
-- 📫 Reach me via DM on KB (or see my PGP key there) : https://keybase.io/roelds
+- 📫 Reach me via DM on KB : https://keybase.io/roelds
 - 🔭 My fav nerd font : https://www.programmingfonts.org/#source-code-pro
 - 🎨 My https://code.visualstudio.com Editor Settings : 
 ```%appdata%\code\user\settings.json```
