@@ -7,7 +7,7 @@
 https://stackoverflow.com/users/3613951/roelds
 - 💞️ I’m looking to collaborate on FOSS : 
 
-```See my Gists for various code snippets & shell scripts (mostly Go & Fish & PowerShell)```
+```See my Gists for various code snippets & shell scripts (mostly Go,Fish,Bash,PowerShell)```
 
 https://gist.github.com/roelds
 
@@ -17,7 +17,7 @@ https://gist.github.com/roelds
 ```%appdata%\code\user\settings.json```
 ```json
 {
-    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": true,
     "redhat.telemetry.enabled": false,
     "files.associations": {
         "*.sh": "fish"
@@ -35,6 +35,13 @@ https://gist.github.com/roelds
     "terminal.integrated.defaultProfile.windows": "Windows PowerShell"
 
 }
+```
+
+- 🎨 My aka.ms/wsl2 Config : 
+```%userprofile%\.wslconfig```
+```
+[wsl2]
+kernelCommandLine = "sysctl.vm.max_map_count=262144"
 ```
 
 <!---
