@@ -2,16 +2,15 @@
 - 👋 Hi, I’m @roelds
 - 👀 I’m interested in CyberSec
 - 🌱 I’m currently learning InfoSec & working on improving my dev & script skillset
+- 📫 Reach me via DM on KB : https://keybase.io/roelds
 ## 🤔
 - 💬 Find me elsewhere, supposedly with some answers : 
 https://stackoverflow.com/users/3613951/roelds
-- 💞️ I’m looking to collaborate on FOSS : 
+- 💞️ I’m looking to collaborate on FOSS :
 
 ```See my Gists for various code snippets & shell scripts (mostly Go,Fish,Bash,PowerShell)```
 
 https://gist.github.com/roelds
-
-- 📫 Reach me via DM on KB : https://keybase.io/roelds
 - 🔭 My fav nerd font : https://www.programmingfonts.org/#source-code-pro
 - 🎨 My https://code.visualstudio.com Editor Settings : 
 ```%appdata%\code\user\settings.json```
@@ -43,6 +42,9 @@ https://gist.github.com/roelds
 [wsl2]
 kernelCommandLine = "sysctl.vm.max_map_count=262144"
 ```
+
+- 🎨 My aka.ms/terminal Settings [here](https://github.com/roelds/roelds.github.io/raw/main/settings.json) : 
+```%localappdata%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json```
 
 <!---
 roelds/roelds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
