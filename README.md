@@ -2,17 +2,18 @@
 - 👋 Hi, I’m @roelds
 - 👀 I’m interested in CyberSec
 - 🌱 I’m currently learning InfoSec & working on improving my dev & script skillset
+- 🔭 I'm always looking to find & deliver unique value, in anything I do
 - 📫 Reach me via DM on KB : https://keybase.io/roelds
 ## 🤔
-- 💬 Find me elsewhere, supposedly with some answers : 
-https://stackoverflow.com/users/3613951/roelds
-- 💞️ I’m looking to collaborate on FOSS :
+- <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png" width="32"/> Find me elsewhere, supposedly with some answers, on [StackOverflow](https://stackoverflow.com/users/3613951/roelds)
+- 💞️ I’d love to collaborate on FOSS !
+- <img src="https://user-images.githubusercontent.com/7102064/162039887-1c965add-101f-40c6-bed9-d19caf21a6de.png" width="24"/> See my [Gists](https://gist.github.com/roelds) for various code snippets & shell scripts (mostly Go,Fish,Bash,PowerShell)
+- 💬 My fav [nerd font](https://www.programmingfonts.org/#source-code-pro)
+- <img src="https://camo.githubusercontent.com/843bbf1062ee56b3e7d36c40973d03d3f867f371f766b64ba1fabe8e02368951/68747470733a2f2f7777772e64656269616e2e6f72672f66617669636f6e2e69636f" width="24"/> My fav Linux is [Debian Testing](https://wiki.debian.org/DebianTesting)
+- 🎨 My aka.ms/terminal Settings [here](https://github.com/roelds/roelds.github.io/raw/main/settings.json) : 
+```%localappdata%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json```
 
-```See my Gists for various code snippets & shell scripts (mostly Go,Fish,Bash,PowerShell)```
-
-https://gist.github.com/roelds
-- 🔭 My fav nerd font : https://www.programmingfonts.org/#source-code-pro
-- 🎨 My https://code.visualstudio.com Editor Settings : 
+- <img src="https://user-images.githubusercontent.com/7102064/162032517-e353d048-ef90-4087-bdbd-e4d4b5c3fa4d.png" width="24"/> My [VS Code](https://code.visualstudio.com) Editor Settings : 
 ```%appdata%\code\user\settings.json```
 ```json
 {
@@ -36,15 +37,13 @@ https://gist.github.com/roelds
 }
 ```
 
-- 🎨 My aka.ms/wsl2 Config : 
+- <img src="https://user-images.githubusercontent.com/7102064/162040097-2a72c614-d4b3-415b-bf4a-29495ca50be2.png" width="24"/> <img src="https://user-images.githubusercontent.com/7102064/159778177-b1bf3381-569f-4390-8c21-04d30533fc7b.png" width="24"/>
+My aka.ms/wsl2 Config : 
 ```%userprofile%\.wslconfig```
 ```
 [wsl2]
 kernelCommandLine = "sysctl.vm.max_map_count=262144"
 ```
-
-- 🎨 My aka.ms/terminal Settings [here](https://github.com/roelds/roelds.github.io/raw/main/settings.json) : 
-```%localappdata%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json```
 
 <!---
 roelds/roelds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
