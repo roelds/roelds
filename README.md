@@ -13,7 +13,7 @@
 - 🎨 My aka.ms/terminal Settings [here](https://github.com/roelds/roelds.github.io/raw/main/settings.json) : 
 ```%localappdata%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json```
 
-- <img src="https://user-images.githubusercontent.com/7102064/162032517-e353d048-ef90-4087-bdbd-e4d4b5c3fa4d.png" width="24"/> My [VS Code](https://code.visualstudio.com) Editor Settings : 
+- <img src="https://user-images.githubusercontent.com/7102064/162032517-e353d048-ef90-4087-bdbd-e4d4b5c3fa4d.png" width="24"/> My aka.ms/vscode Editor Settings : 
 ```%appdata%\code\user\settings.json```
 ```json
 {
