@@ -1,6 +1,6 @@
 # ✨
 - 👋 Hi ! ⚡
-- 👀 I’m interested in CyberSec, Privacy, Self-Hosting, & Self-Custodial [BTC](https://bitcoin.org/en/) ₿ 🧡
+- 👀 I’m interested in CyberSec, Privacy, Self-Hosting, & Self-Custodial [BTC](https://bitcoinknots.org/) ₿ 🧡
 - 🌱 I’m currently improving my sovereign engineering vibe coding skillset 💜
 - 📫 Reach me via [Email](mailto:rbk6ylds@mailer.me)
 ## 🤔
