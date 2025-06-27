@@ -2,7 +2,7 @@
 - 👋 Hi ! ⚡
 - 👀 I’m interested in CyberSec, Privacy, Self-Hosting, & Self-Custodial [BTC](https://bitcoinknots.org/) ₿ 🧡
 - 🌱 I’m currently improving my sovereign engineering vibe coding skillset 💜
-- 📫 Reach me via [Email](mailto:rbk6ylds@mailer.me)
+- 📫 Reach me via [Email](mailto:rbk6ylds@mailer.me) or [DM](https://substack.com/@rs42069)
 ## 🤔
 - <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png" width="32"/> Find me elsewhere, supposedly with some answers, on [StackOverflow](https://stackoverflow.com/users/3613951/roelds)
 - 💞️ I’d love to collaborate on [FOSS](https://www.gnu.org/philosophy/philosophy.html) 🔭 Especially at startups !
